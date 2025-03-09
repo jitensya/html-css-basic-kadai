@@ -1,6 +1,7 @@
 body {
 font-family: "Arial","Meiryo",sans-serif;
 }
+
 h1 {
 font-family: "Josefin Sans",sans-serif;
 text-align: center;
@@ -15,7 +16,7 @@ text-align: center;
 }
 
 h2 {
-    text-align: center;    
+text-align: center;    
 }
 
 #basic p {
@@ -23,24 +24,14 @@ font-weight: bold;
 }
 
 p {
-    text-align: center;   
+text-align: center;   
 }
 
 .pink {
-    color :rgb(255 192 203);
+color :rgb(255 192 203);
     }
 
 .blue {
 color :skyblue;
 }
-
-
-
-.blue
-
-#.pink
-
-.span
-
-.blue
 
