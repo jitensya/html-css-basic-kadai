@@ -4,7 +4,6 @@ justify-content:center;
 width:800px;
 height:52px;
 background-color:#dcc9f4;
-text-align:center;
 margin-bottom:10px;
 }
 
@@ -12,6 +11,8 @@ p {
 display:inline-block;
 width:160px;
 height:20px;
+margin:0 10px;
+text-align:center;
 background-color:#ffd9df;
 }
 
