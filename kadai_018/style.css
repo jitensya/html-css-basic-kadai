@@ -1,20 +1,23 @@
 #top {
-display:flex;
-justify-content:center;
+/* display:flex; */
+text-align:center;
 width:800px;
-height:52px;
+/* height:52px; */
+padding-top:20px;
+padding-bottom:20px;
 background-color:#dcc9f4;
 margin-bottom:10px;
 }
 
-p {
+.top-child {
 display:inline-block;
-width:160px;
-height:20px;
-margin:0 10px;
-text-align:center;
+width:20%;
+/* height:20px; */
+/* text-align:center; */
 background-color:#ffd9df;
+margin:0 10px;
 }
+
 
 #middle {
 position:relative;
