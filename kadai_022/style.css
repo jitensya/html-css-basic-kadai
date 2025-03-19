@@ -19,7 +19,7 @@ color: orange;
 }
 
 #parent {
-/* display:flex; */
+display:flex;
 margin:0px ;
 font-size: 20px;
 justify-content:space-between;
@@ -35,7 +35,6 @@ margin:20px 0px;
 
 h2 {
 border-bottom:dotted 3px rgb(236,122,122);
-
 }
 
 h2 ::first-letter {
@@ -80,10 +79,11 @@ text-align: center;
 footer a {
 color:rgb(255, 255, 255);
  }
+ 
 footer a:visited {
 color:rgb(193, 234, 251);
  }
 
 footer a:hover {
-color:rgb(193, 234, 251);
+color:rgb(245, 178, 168);
 }
